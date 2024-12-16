@@ -1,0 +1,15 @@
+Artifacts released by Aquen are signed with one of these keys:
+
+--------
+User ID:     releases@aquen.io
+Fingerprint: FB8049ECD9EE4504AD0A8B3133D70D87A957E92E
+--------
+User ID:     dfernandez@users.sourceforge.net
+Fingerprint: 839323A4780D5BF9A6978970152888E10EF880B3
+--------
+
+These keys can be obtained from well-known key servers like:
+
+keyserver.ubuntu.com
+keys.openpgp.org
+pgp.mit.edu
