@@ -1,0 +1,11 @@
+Artifacts released by Arxila are signed with this key:
+
+--------
+User ID:     releases@arxila.io
+Fingerprint: 49E0B07D4209B610E1CA35ECF2E549DCAE5A5AB4
+--------
+
+This key can be obtained from well-known key servers like:
+
+keyserver.ubuntu.com
+keys.openpgp.org
