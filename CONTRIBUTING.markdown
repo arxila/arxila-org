@@ -30,7 +30,7 @@ What is the first step to be taken?
 -----------------------------------
 
 First of all, **talk to the project members** (an email or GitHub discussion should do) about
-your ideas: new features, fixes, documentation... whatever you would like to contribute to the project. Let we 
+your ideas: new features, fixes, documentation... whatever you would like to contribute to the project. Let us 
 discuss the possibilities with you so that we make sure your contribution goes in the right direction and aligns 
 with the project's standards, intentions and roadmap. 
 
